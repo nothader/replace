@@ -11,3 +11,6 @@ Clone the repository:
 git clone https://github.com/nothader/replace.git
 cd find-replace-tool
 pip install .
+
+##Usage
+replace /path/to/folder "old_word" "new_word"

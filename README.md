@@ -9,7 +9,7 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/nothader/replace.git
-cd find-replace-tool
+cd replace
 pip install .
 
 ##Usage

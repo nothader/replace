@@ -13,5 +13,5 @@ cd replace
 pip install .
 
 ##Usage
-got cd replace
+cd replace
 python3 main.py /path/to/folder old_word new_word
